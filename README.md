@@ -13,7 +13,7 @@ Installation:-
 
 Clone the repository
 bash
-Copy code:- git clone https://github.com/yourusername/link-manager-extension.git
+Copy code:- git clone https://github.com/bruzethegreat/link-manager-extension.git
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" by toggling the switch in the upper-right corner.
 Click on "Load unpacked" and select the directory where you cloned the repository.
