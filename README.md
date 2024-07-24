@@ -14,11 +14,16 @@ Installation:-
 Clone the repository
 bash
 Copy code:- git clone https://github.com/bruzethegreat/link-manager-extension.git
+
 Open Chrome and go to chrome://extensions/.
+
 Enable "Developer mode" by toggling the switch in the upper-right corner.
+
 Click on "Load unpacked" and select the directory where you cloned the repository.
-Usage
-Click on the LinkSaver icon in the Chrome toolbar to open the extension.
+
+Usage:-
+
+Click on the icon in the Chrome toolbar to open the extension.
 Add your links by entering the URL and a description.
 Upload files by clicking the "Add File" button and selecting your file.
 Use the copy button next to each link or file to copy it to your clipboard for quick use.
